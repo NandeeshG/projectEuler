@@ -1,4 +1,5 @@
 #include<iostream>
+//problem 1 solution
 
 long long sumDivisibleBy(long long n, long target)
 {
